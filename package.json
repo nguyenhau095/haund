@@ -1,0 +1,22 @@
+{
+  "name": "com.haund.utils",
+  "displayName": "Haund Utilities Package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Haund Utils",
+  "type": "tool",
+  "relatedPackages": {
+    "com.unity.visualscripting.tests": "1.9.4"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n- Fixed sqlite dll changes not being recognized correctly by the 2022.3 Unity Editor"
+  },
+  "upmCi": {
+    "footprint": "d93282af6b30b34282f3ab806bff6bba3ab6dfbc"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git",
+    "type": "git",
+    "revision": "41aac2b7038c2b1259c546329890d3736ce2394e"
+  }
+}
